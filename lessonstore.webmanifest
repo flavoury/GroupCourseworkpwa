@@ -1,0 +1,13 @@
+{"name": "AfterSchool PWA",
+    "short_name": "lessonstore",
+    "description": "my online AfterSchool Club ",
+    "icons": 
+    [        
+        {"src": "images/logo1.png",
+         "sizes": "512x512","type": "image/png"    
+         }    
+    ],
+      "start_url": "lesson.html",
+      "display": "fullscreen",
+      "background_color": "#B12A34"
+    }
