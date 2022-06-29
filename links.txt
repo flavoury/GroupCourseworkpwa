@@ -1,0 +1,5 @@
+The URL to the GitHub repository 
+https://github.com/flavoury/GroupCourseworkpwa
+
+The URL to the GitHub Pages
+https://flavoury.github.io/GroupCourseworkpwa/lesson.html
